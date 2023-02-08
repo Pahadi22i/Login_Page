@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269771634699",
+    "project_id": "fir-9580c",
+    "storage_bucket": "fir-9580c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269771634699:android:4d0842a27cf8c512bf2f0e",
+        "android_client_info": {
+          "package_name": "com.example.mvvmarchitechture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269771634699-ukhfbnbqbutdde07pg0qkuunkupah430.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mvvmarchitechture",
+            "certificate_hash": "778e65816acd7ea0c0b18ab7afbc14a4dd6da45a"
+          }
+        },
+        {
+          "client_id": "269771634699-l487rgj32qvti3g39meanofgva8f33rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLM90KMvgo8URZdHdyEcT-ddxYOsQq5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269771634699-l487rgj32qvti3g39meanofgva8f33rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
